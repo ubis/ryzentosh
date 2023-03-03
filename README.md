@@ -40,4 +40,4 @@ I never had any OS crashes, except some apps, but that happens rarely. I never g
 
 I use [OCAT](https://github.com/ic005k/OCAuxiliaryTools) to sync OpenCore, drivers, kernel modules.
 
-There's nothing much else to say, essentially this is a backup for my, for my EFI partition.
+There's nothing much else to say, essentially this is a backup for me - for my EFI partition.
