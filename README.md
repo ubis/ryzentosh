@@ -32,6 +32,10 @@ Virtualization. That is VirtualBox/VMware/Docker/etc, because they use Hyperviso
 
 But since it's UNIX and with a help of [Brew](https://brew.sh), I never (yet) found the need for virtualization.
 
+Need `dd`? Not a problem. [Fish Shell](https://formulae.brew.sh/formula/fish)? Sure! [SpaceShip](https://formulae.brew.sh/formula/spaceship) prompt? You got it.
+
+I can build Linux kernels, OpenWrt, etc... With GNU [coreutils](https://formulae.brew.sh/formula/coreutils).
+
 ## Notes
 
 It was actually quite easy to make AMD hackintosh, probably it is easier than with Intel system.
